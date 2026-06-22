@@ -21,7 +21,7 @@ material and settings.
 
 ## License
 
-[Choose a license — e.g. CC BY 4.0 for documents, or another of your choice]
+[CC BY 4.0 for documents]
 
 ## Contact
 
